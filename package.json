@@ -1,0 +1,23 @@
+{
+  "name": "metalsmith-text-replace",
+  "version": "1.0.0",
+  "description": "Metalsmith plugin for globally replacing strings",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/lotaris/metalsmith-text-replace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lotaris/metalsmith-text-replace"
+  },
+  "bugs": {
+    "url": "https://github.com/lotaris/metalsmith-text-replace/issues"
+  },
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "minimatch": "^1.0.0"
+  },
+  "devDependencies": {
+    "metalsmith": "0.x",
+    "debug": "^1.0.2"
+  }
+}
