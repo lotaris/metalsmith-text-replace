@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-text-replace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Metalsmith plugin for globally replacing strings",
   "readmeFilename": "README.md",
   "homepage": "https://github.com/lotaris/metalsmith-text-replace",
