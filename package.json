@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^1.0.2",
-    "minimatch": "^1.0.0"
+    "minimatch": "^3.0.3"
   },
   "devDependencies": {
     "metalsmith": "0.x"
