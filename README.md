@@ -1,3 +1,7 @@
+### :warning: Unmaintained.
+
+---
+
 # metalsmith-text-replace
 
 This is a plugin for [Metalsmith](http://metalsmith.io/) that allows globally
